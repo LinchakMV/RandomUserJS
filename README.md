@@ -1,2 +1,2 @@
 # RandomUserJS
-##( http://randomuserjslin.surge.sh/ )
+##DEMO APP( http://randomuserjslin.surge.sh/ )
